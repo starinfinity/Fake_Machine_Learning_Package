@@ -53,9 +53,6 @@ class MachineLearning:
         self.analyze_results()
         print("Machine Learning pipeline executed successfully. Ready to make data-driven decisions!")
 
-# Usage
-MachineLearning()
-
 
 
 
